@@ -1,69 +1,53 @@
 # Hi 👋, I'm Kabilan K.
 
-### 💻 Software Engineer | Java Full-Stack Developer
+### Software Engineer | Java Full-Stack Developer
 
-I'm a Computer Science and Engineering undergraduate at **Vellore Institute of Technology (VIT)** specializing in **Bioinformatics**. I enjoy building full-stack web applications, solving programming problems, and continuously learning new technologies.
+Computer Science and Engineering undergraduate at **Vellore Institute of Technology (VIT)** specializing in **Bioinformatics**. Passionate about building scalable software, solving real-world problems, and continuously improving through projects and coding practice.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 * 🎓 B.Tech CSE (Bioinformatics), VIT Vellore (2022–2026)
-* 💼 Seeking Software Engineer / Java Developer / Full-Stack Developer roles
+* 💼 Seeking Software Engineer, Java Developer, and Full-Stack Developer opportunities
 * 🌱 Currently learning Backend Development and Advanced Data Structures
-* 💡 Passionate about clean code and scalable software
+* 🚀 Interested in Software Engineering, Web Development, and Problem Solving
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Programming Languages**
+**Languages**
 
-* Java
-* JavaScript
-* SQL
+Java • JavaScript • SQL
 
 **Frontend**
 
-* HTML
-* CSS
-* React.js
+HTML • CSS • React.js
 
 **Backend**
 
-* Node.js
-* Express.js
-* REST APIs
+Node.js • Express.js • REST APIs
 
-**Database**
+**Databases**
 
-* MongoDB
-* MySQL
+MongoDB • MySQL
 
 **Tools**
 
-* Git
-* GitHub
-* VS Code
+Git • GitHub • VS Code
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📌 Full-Stack Quiz Application
+### Full-Stack Quiz Application
 
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-* Authentication
+Built a responsive quiz platform using **Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript** with authentication, REST APIs, and score tracking.
 
-### 📌 Healthcare Recommendation System
+### Healthcare Recommendation System
 
-* HTML
-* CSS
-* JavaScript
-* SQL
+Developed a healthcare recommendation web application using **HTML, CSS, JavaScript, and SQL**, integrating an existing machine learning prediction module.
 
 ---
 
@@ -71,7 +55,8 @@ I'm a Computer Science and Engineering undergraduate at **Vellore Institute of T
 
 * LinkedIn: https://www.linkedin.com/in/kabilan-k-715693371/
 * GitHub: https://github.com/Kabilan-7584
+* Email: [k.kabilan7584@gmail.com](mailto:k.kabilan7584@gmail.com)
 
 ---
 
-⭐ Always learning, always building.
+*"Always learning. Always building. Always improving."*
